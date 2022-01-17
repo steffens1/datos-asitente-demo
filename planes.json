@@ -1,0 +1,16 @@
+{
+    "data": [
+        {"plan_texto": "Claro max 29.9",  "id": 1, "plan_num": 29.9 , "descripcion": "esto es una descripcion"},
+        {"plan_texto": "Claro max 39.9",  "id": 1, "plan_num": 39.9 , "descripcion": "esto es una descripcion"},
+        {"plan_texto": "Claro max 49.9",  "id": 1, "plan_num": 49.9 , "descripcion": "esto es una descripcion"},
+        {"plan_texto": "Claro max 55.0",  "id": 1, "plan_num": 55.0 , "descripcion": "esto es una descripcion"},
+        {"plan_texto": "Claro max 65.0",  "id": 1, "plan_num": 65.0 , "descripcion": "esto es una descripcion"},
+        {"plan_texto": "Claro max 75.0",  "id": 1, "plan_num": 75.0 , "descripcion": "esto es una descripcion"},
+        {"plan_texto": "Claro max 85.0",  "id": 1, "plan_num": 85.0 , "descripcion": "esto es una descripcion"},
+        {"plan_texto": "Claro max 109.9",  "id": 1, "plan_num": 109.9 , "descripcion": "esto es una descripcion"},
+        {"plan_texto": "Claro max 129.9",  "id": 1, "plan_num": 129.9 , "descripcion": "esto es una descripcion"},
+        {"plan_texto": "Claro max 159.9",  "id": 1, "plan_num": 159.9 , "descripcion": "esto es una descripcion"},
+        {"plan_texto": "Claro max 189.9",  "id": 1, "plan_num": 189.9 , "descripcion": "esto es una descripcion"},
+        {"plan_texto": "Claro max 289.9",  "id": 1, "plan_num": 289.9 , "descripcion": "esto es una descripcion"}
+    ]
+}

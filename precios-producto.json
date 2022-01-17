@@ -1,0 +1,538 @@
+{
+    "data": {
+        "nombre_comercial": "IPHONE 12 64GB",
+        "id": 1,
+        "campanas": [
+            { 
+                "nombre_campana":"alta regular",
+                "modalidad": "contado",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 345  ,  "total": 1244,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  39.9, "precio_anterior": 345  ,  "total": 1244,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  49.9, "precio_anterior": 345  ,  "total": 1244,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 55.0" ,  "plan_num":  55.0, "precio_anterior": 345  ,  "total": 1244,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 65.0" ,  "plan_num":  65.0, "precio_anterior": 345  ,  "total": 1244,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 75.0" ,  "plan_num":  75.0, "precio_anterior": 345  ,  "total": 1244,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 85.0" ,  "plan_num":  85.0, "precio_anterior": 345  ,  "total": 1244,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  109.9, "precio_anterior": 345  ,  "total": 1244,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  129.9, "precio_anterior": 345  ,  "total": 1244,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  159.9, "precio_anterior": 345  ,  "total": 1244,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  189.9, "precio_anterior": 345  ,  "total": 1244,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  289.9, "precio_anterior": 345  ,  "total": 1244,  "inicial":null , "mensual": null }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"renovacion exclusiva",
+                "modalidad": "contado",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 345  ,  "total": 999,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  39.9, "precio_anterior": 345  ,  "total": 999,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  49.9, "precio_anterior": 345  ,  "total": 999,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 55.0" ,  "plan_num":  55.0, "precio_anterior": 345  ,  "total": 999,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 65.0" ,  "plan_num":  65.0, "precio_anterior": 345  ,  "total": 999,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 75.0" ,  "plan_num":  75.0, "precio_anterior": 345  ,  "total": 999,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 85.0" ,  "plan_num":  85.0, "precio_anterior": 345  ,  "total": 999,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  109.9, "precio_anterior": 345  ,  "total": 999,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  129.9, "precio_anterior": 345  ,  "total": 999,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  159.9, "precio_anterior": 345  ,  "total": 999,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  189.9, "precio_anterior": 345  ,  "total": 999,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  289.9, "precio_anterior": 345  ,  "total": 999,  "inicial":null , "mensual": null }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"portabilidad exclusiva",
+                "modalidad": "contado",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  39.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  49.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 55.0" ,  "plan_num":  55.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 65.0" ,  "plan_num":  65.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 75.0" ,  "plan_num":  75.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 85.0" ,  "plan_num":  85.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  109.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  129.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  159.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  189.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  289.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"ataque a la competencia",
+                "modalidad": "contado",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  39.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  49.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 55.0" ,  "plan_num":  55.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 65.0" ,  "plan_num":  65.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 75.0" ,  "plan_num":  75.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 85.0" ,  "plan_num":  85.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  109.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  129.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  159.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  189.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  289.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"tienda virtual",
+                "modalidad": "contado",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  39.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  49.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 55.0" ,  "plan_num":  55.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 65.0" ,  "plan_num":  65.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 75.0" ,  "plan_num":  75.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 85.0" ,  "plan_num":  85.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  109.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  129.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  159.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  189.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  289.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"full claro",
+                "modalidad": "contado",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  39.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  49.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 55.0" ,  "plan_num":  55.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 65.0" ,  "plan_num":  65.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 75.0" ,  "plan_num":  75.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 85.0" ,  "plan_num":  85.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  109.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  129.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  159.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  189.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  289.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"Promo BBVA",
+                "modalidad": "contado",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": "convenio bancos", 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  39.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  49.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 55.0" ,  "plan_num":  55.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 65.0" ,  "plan_num":  65.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 75.0" ,  "plan_num":  75.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 85.0" ,  "plan_num":  85.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  109.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  129.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  159.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  189.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  289.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"Promo Interbank",
+                "modalidad": "contado",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": "convenio bancos", 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  39.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  49.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 55.0" ,  "plan_num":  55.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 65.0" ,  "plan_num":  65.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 75.0" ,  "plan_num":  75.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 85.0" ,  "plan_num":  85.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  109.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  129.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  159.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  189.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  289.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"Promo Dinners",
+                "modalidad": "contado",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": "convenio bancos", 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  39.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  49.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 55.0" ,  "plan_num":  55.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 65.0" ,  "plan_num":  65.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 75.0" ,  "plan_num":  75.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 85.0" ,  "plan_num":  85.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  109.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  129.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  159.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  189.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  289.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"Promo focalizada",
+                "modalidad": "contado",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": "promociones focalizadas", 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  39.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  49.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 55.0" ,  "plan_num":  55.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 65.0" ,  "plan_num":  65.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 75.0" ,  "plan_num":  75.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 85.0" ,  "plan_num":  85.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  109.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  129.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  159.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  189.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  289.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"Oferta presencial 1",
+                "modalidad": "contado",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": "promociones focalizadas", 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  39.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  49.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 55.0" ,  "plan_num":  55.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 65.0" ,  "plan_num":  65.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 75.0" ,  "plan_num":  75.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 85.0" ,  "plan_num":  85.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  109.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  129.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  159.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  189.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  289.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"Oferta presencial 2",
+                "modalidad": "contado",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": "promociones focalizadas", 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  39.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  49.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 55.0" ,  "plan_num":  55.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 65.0" ,  "plan_num":  65.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 75.0" ,  "plan_num":  75.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 85.0" ,  "plan_num":  85.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  109.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  129.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  159.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  189.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  289.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"Oferta presencial 3",
+                "modalidad": "contado",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": "promociones focalizadas", 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  39.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  49.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 55.0" ,  "plan_num":  55.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 65.0" ,  "plan_num":  65.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 75.0" ,  "plan_num":  75.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 85.0" ,  "plan_num":  85.0, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  109.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  129.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  159.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  189.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  289.9, "precio_anterior": 345  ,  "total": 6789,  "inicial":null , "mensual": null }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"cuotas Lite 6M",
+                "modalidad": "cuotas",
+                "tiempo_contrato": 6,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  39.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  49.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 55.9" ,  "plan_num":  55.0, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 65.9" ,  "plan_num":  65.0, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 75.9" ,  "plan_num":  75.0, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 85.9" ,  "plan_num":  85.0, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  109.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  129.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  159.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  189.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  289.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"cuotas reno 12M",
+                "modalidad": "cuotas",
+                "tiempo_contrato": 12,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 55.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 65.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 75.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 85.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"cuotas porta 12M",
+                "modalidad": "cuotas",
+                "tiempo_contrato": 12,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 55.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 65.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 75.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 85.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"cuotas retencion 12M",
+                "modalidad": "cuotas",
+                "tiempo_contrato": 12,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 55.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 65.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 75.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 85.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"cuotas reno 18M",
+                "modalidad": "cuotas",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 55.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 65.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 75.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 85.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"cuotas porta 18M",
+                "modalidad": "cuotas",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 55.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 65.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 75.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 85.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"cuotas retencion 18M",
+                "modalidad": "cuotas",
+                "tiempo_contrato": 18,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 55.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 65.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 75.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 85.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"cuotas reno 24M",
+                "modalidad": "cuotas",
+                "tiempo_contrato": 24,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 55.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 65.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 75.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 85.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"cuotas porta 24M",
+                "modalidad": "cuotas",
+                "tiempo_contrato": 24,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 55.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 65.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 75.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 85.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 }
+                ] 
+                
+            },
+            { 
+                "nombre_campana":"cuotas retencion 24M",
+                "modalidad": "cuotas",
+                "tiempo_contrato": 24,
+                "activo": true,
+                "categoria": null, 
+                "descripcion": "esto es una descripcion de la campana",
+                "planes" : [
+                    { "plan_text": "claro max 29.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 39.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 49.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 55.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 65.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 75.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 85.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 109.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 129.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 159.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 189.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 },
+                    { "plan_text": "claro max 289.9" ,  "plan_num":  29.9, "precio_anterior": 9999  ,  "total": 6789,  "inicial":890 , "mensual": 245.77777777 }
+                ] 
+                
+            }
+        ]
+        
+    }
+}
