@@ -7,16 +7,13 @@
         {"nombre_campana": "ataque a la competencia", "modalidad": "contado", "contrato": 18 , "categoria": null , "prioridad": 1 },
         {"nombre_campana": "tienda virtual", "modalidad": "contado", "contrato": 18 , "categoria": null , "prioridad": 1 },
         {"nombre_campana": "full claro", "modalidad": "contado", "contrato": 18 , "categoria": null , "prioridad": 1 },
-
         {"nombre_campana": "Promo BBVA", "modalidad": "contado", "contrato": 18 , "categoria": "convenio bancos" , "prioridad": 2 },
         {"nombre_campana": "Promo Interbank", "modalidad": "contado", "contrato": 18 , "categoria": "convenio bancos" , "prioridad": 2 },
         {"nombre_campana": "Promo Dinners", "modalidad": "contado", "contrato": 18 , "categoria": "convenio bancos" , "prioridad": 2 },
-        
         {"nombre_campana": "Promo focalizada", "modalidad": "contado", "contrato": 18 , "categoria": "Promociones focalizadas" , "prioridad": 3 },
         {"nombre_campana": "oferta presencial 1", "modalidad": "contado", "contrato": 18 , "categoria": "Promociones focalizadas" , "prioridad": 3 },
         {"nombre_campana": "oferta presencial 2", "modalidad": "contado", "contrato": 18 , "categoria": "Promociones focalizadas" , "prioridad": 3 },
         {"nombre_campana": "oferta presencial 3", "modalidad": "contado", "contrato": 18 , "categoria": "Promociones focalizadas" , "prioridad": 3 },
- 
         {"nombre_campana": "Cuotas lite 6M", "modalidad": "cuotas", "contrato": 6 , "categoria": null , "prioridad": 4 },
         {"nombre_campana": "Reno cuotas 12M", "modalidad": "cuotas", "contrato": 12 , "categoria": null , "prioridad": 4 },
         {"nombre_campana": "Porta Cuotas 12M", "modalidad": "cuotas", "contrato": 12 , "categoria": null , "prioridad": 4 },
