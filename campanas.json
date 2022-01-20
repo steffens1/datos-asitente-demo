@@ -19,12 +19,11 @@
         {"nombre_campana": "OFERTA PRESENCIAL 2", "modalidad": "contado", "contrato": 18 , "categoria": "Promociones focalizadas" , "prioridad": 3 },
         {"nombre_campana": "OFERTA PRESENCIAL 3", "modalidad": "contado", "contrato": 18 , "categoria": "Promociones focalizadas" , "prioridad": 3 },
         {"nombre_campana": "L  Exclusiva C Porta 6M", "modalidad": "cuotas", "contrato": 6 , "categoria": null , "prioridad": 4 },
-        {"nombre_campana": "L  Exclusiva C Reno  12M", "modalidad": "cuotas", "contrato": 12 , "categoria": null , "prioridad": 4 },
+        {"nombre_campana": "L  Exclusiva C Reno  12M", "modalidad": "cuotas", "contrato": 12 , "categoria": null , "prioridad": 2 },
         {"nombre_campana": "L  Exclusiva C Porta 12M", "modalidad": "cuotas", "contrato": 12 , "categoria": null , "prioridad": 4 },
         {"nombre_campana": "L  Exclusiva C Reno  18M", "modalidad": "cuotas", "contrato": 18 , "categoria": null , "prioridad": 4 },
         {"nombre_campana": "L  Exclusiva C Porta 18M", "modalidad": "cuotas", "contrato": 18 , "categoria": null , "prioridad": 4 },
         {"nombre_campana": "L  Exclusiva C Reno  24M", "modalidad": "cuotas", "contrato": 24 , "categoria": null , "prioridad": 4 },
         {"nombre_campana": "L  Exclusiva C Porta 24M", "modalidad": "cuotas", "contrato": 24 , "categoria": null , "prioridad": 4 }
-        
     ]
 }
